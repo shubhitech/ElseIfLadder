@@ -21,14 +21,7 @@ public class DemoApp {
 			System.out.println(a);
 			System.out.println(b);
 			System.out.println(a*b);
-			System.out.println("second");
-			System.out.println(a<=b); 
-			System.out.println(a+b);
-			System.out.println(a);
-			System.out.println(b);
-			System.out.println(a*b);
-			System.out.println("second");
-			System.out.println("my project");
+			System.out.println("i am able");
 
 		}
 
