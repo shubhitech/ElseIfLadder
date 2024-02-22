@@ -28,6 +28,7 @@ public class DemoApp {
 			System.out.println(b);
 			System.out.println(a*b);
 			System.out.println("second");
+			System.out.println("my project");
 
 		}
 
